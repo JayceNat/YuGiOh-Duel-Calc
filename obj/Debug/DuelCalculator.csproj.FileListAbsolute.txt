@@ -1,0 +1,10 @@
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\bin\Debug\DuelCalculator.exe.config
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\bin\Debug\DuelCalculator.exe
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\bin\Debug\DuelCalculator.pdb
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\obj\Debug\DuelCalculator.DuelCalc.resources
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\obj\Debug\DuelCalculator.Properties.Resources.resources
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\obj\Debug\DuelCalculator.csproj.GenerateResource.cache
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\obj\Debug\DuelCalculator.csproj.CoreCompileInputs.cache
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\obj\Debug\DuelCalculator.exe
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\obj\Debug\DuelCalculator.pdb
+C:\Users\meyerja\Documents\Vertafore\Innovation Week\DuelCalculator\DuelCalculator\obj\Debug\DuelCalculator.csprojResolveAssemblyReference.cache
